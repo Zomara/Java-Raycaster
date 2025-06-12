@@ -27,10 +27,11 @@ Rays: The most important part of the code
 Sprite: Code still in development, intended purpose is to draw a 2d sprite (a yellow square) at a fixed location on the map 
 
 
-# Future Steps
+# Future Roadmap
 - Fix Sprite Code
+- Create Client and Host versions with a one way connection, the client code send its player coordinates to be drawn as a sprite on the hosts screen
+- Make Client/Host programs a two-way connection, both players can "see" each other
 - Increase Map Size
-- Have Player collisions with a wall textured as a door act as a way to switch to a new Map
 
 
 # Sources:
