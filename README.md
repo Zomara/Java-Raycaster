@@ -12,7 +12,7 @@ KeyHandler: Keeps track of the players keyboard states
 - S = backward
 - A = turn left
 - D = turn right
-- left arrow = increase ray count
+- left arrow = increase ray count (more rays is more detailed horizontal resoultion)
 - right arrow = decrease ray count
 - e = interact (unused)
 
@@ -22,7 +22,7 @@ Map:Keeps track of Wall Positions along with which floor/ceiling/wall tiles have
 
 Sound: Plays background Music
 
-Rays: The most important part of the code
+Rays: The most important part of the code, simulates all the rays "emitted" from the player to calculate which walls to draw on screen at what distance / rotation. This class essentially calculates everything on screen.
 
 Sprite: Code still in development, intended purpose is to draw a 2d sprite (a yellow square) at a fixed location on the map 
 
