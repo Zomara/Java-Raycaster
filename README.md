@@ -22,7 +22,7 @@ Map:Keeps track of Wall Positions along with which floor/ceiling/wall tiles have
 
 Sound: Plays background Music
 
-Rays: The most important part of the code, simulates all the rays "emitted" from the player to calculate which walls to draw on screen at what distance / rotation. This class essentially calculates everything on screen.
+Rays: The most important part of the code, simulates all the rays "emitted" from the player to calculate which walls to draw on screen at what distance / rotation. This class essentially calculates everything drawn on screen.
 
 Sprite: Code still in development, intended purpose is to draw a 2d sprite (a yellow square) at a fixed location on the map 
 
