@@ -3,6 +3,9 @@
 Uses 120 rays projected from the player on a 2D map to draw 32x32 resolution walls, floor, and cieling on an 8 x 8 tile map
 
 
+https://github.com/user-attachments/assets/c07e4466-b7b7-4cf1-8264-19ccc6f828bf
+
+
 # Classes Breakdown
 Main: Initializes and sets up the JFrame window
 
@@ -26,6 +29,10 @@ Sound: Plays background Music
 Rays: The most important part of the code, simulates all the rays "emitted" from the player to calculate which walls to draw on screen at what distance / rotation. This class essentially calculates everything drawn on screen.
 
 Sprite: Code still in development, intended purpose is to draw a 2d sprite (a yellow square) at a fixed location on the map 
+
+https://github.com/user-attachments/assets/82b0cea6-c395-43dd-93d5-da2fd373c14a
+
+
 
 
 # Future Roadmap
