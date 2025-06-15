@@ -30,10 +30,6 @@ Rays: The most important part of the code, simulates all the rays "emitted" from
 
 Sprite: Code still in development, intended purpose is to draw a 2d sprite (a yellow square) at a fixed location on the map 
 
-https://github.com/user-attachments/assets/82b0cea6-c395-43dd-93d5-da2fd373c14a
-
-
-
 
 # Future Roadmap
 - Fix Sprite Code
