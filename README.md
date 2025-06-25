@@ -30,6 +30,17 @@ Rays: The most important part of the code, simulates all the rays "emitted" from
 
 Sprite: Code still in development, intended purpose is to draw a 2d sprite (a yellow square) at a fixed location on the map 
 
+# Process
+
+1. Followed RyiSnow's Tutorial for a 2D game in Java to learn how to use JFframe (game window, drawing shapes, managing frame rate)
+2. Created a top down view of the player, map, and drawn rays
+3. Added player collisions
+4. Took each individual ray and rendered it as a vertical slice of a wall to make the map "3D". North/South and East/West walls are slightly different shades of color to imitate lighting
+5. Did some research on how to use sockets to add multiplayer, was able to send/recieve a one string message
+6. Gave walls Textures by projecting a texture onto each slice of wall
+7. Made the rendered output take up the full screen, hiding the top down map
+8. Added textured celings and floors
+9. Started to try to draw a "sprite", a square that would stay at the same relative map position and scale with distance
 
 # Future Roadmap
 - Fix Sprite Code
