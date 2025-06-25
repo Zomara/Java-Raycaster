@@ -1,6 +1,6 @@
 # Computer Science 12 Final Project
 2.5 Raycaster engine in Java with Jframe
-Uses 120 rays projected from the player on a 2D map to draw 32x32 resolution walls, floor, and cieling on an 8 x 8 tile map
+Uses 120 rays projected from the player on a 2D map to draw 32x32 resolution walls, floor, and ceiling on an 8 x 8 tile map
 
 
 https://github.com/user-attachments/assets/c07e4466-b7b7-4cf1-8264-19ccc6f828bf
